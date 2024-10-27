@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Ksenia Solnyshko
 
-🎓 Computer science third-year undergraduate from ITMO University
+🎓 Computer science fourth-year undergraduate from ITMO University
 
 🌱 Currently interested in highload applications development
 
